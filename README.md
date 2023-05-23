@@ -1,1 +1,2 @@
-# PythonBasic_assignment
+# 파이썬 과학프로그래밍 기초 과제 했던 것들
+기본적인 파이썬 문법을 배우고 tkinter를 배워 GUI를 생성했습니다
